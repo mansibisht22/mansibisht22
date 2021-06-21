@@ -6,7 +6,7 @@
 
 - 🌱 Areas of Interest: **Problem Solving, DSA, Operating Systems**
 
-- 💬 Languages known: **Hindi, English, Span**
+- 💬 Languages known: **Hindi, English, Spanish**
 
 - ⚡ you can call me  **bishtu :)**
 
