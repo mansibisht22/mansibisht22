@@ -2,13 +2,10 @@
 <h1 align="center">Hello World!👋, I'm Mansi Bisht</h1>
 <h3 align="center">✨ Student | Learner | Programmer ✨</h3>
 
-- 🔭 Sophomore @ **Jamia Hamdard University, New Delhi**
-
-- 🌱 Areas of Interest: **Problem Solving, DSA, Operating Systems**
+- 🔭 Pre-Final Year Student @ **Jamia Hamdard University, New Delhi**
 
 - 💬 Languages known: **Hindi, English, Spanish**
 
-- ⚡ you can call me  **bishtu :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
